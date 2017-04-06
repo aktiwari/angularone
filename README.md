@@ -8,6 +8,9 @@ Following things need to be completed before we start
 3. Install Node.js from here https://nodejs.org/en/download/ (latest and stable one)
    This will install Node.js in your machine and NPM
 4. Once NPM is there you can install 'bower' globly using this command 'npm install -g bower'
+5. Any IDE like Bracket or Visual Studio Code(preferred)
+ http://brackets.io/
+ https://code.visualstudio.com/download  
 
 
 Here is syllabus which we will cover 
